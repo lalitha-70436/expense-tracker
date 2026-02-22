@@ -15,7 +15,7 @@ A clean, responsive expense tracker web app built with vanilla HTML, CSS, and Ja
 No installation needed — just open `index.html` in your browser.
 open index.html
 
-<img width="523" height="401" alt="image" src="https://github.com/user-attachments/assets/a2bc1b28-6453-4f24-8940-0a68dc6c7716" />
+![Uploading image.png…]()
 
 
 ## File Structure
