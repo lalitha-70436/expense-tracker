@@ -15,8 +15,6 @@ A clean, responsive expense tracker web app built with vanilla HTML, CSS, and Ja
 No installation needed — just open `index.html` in your browser.
 open index.html
 
-![Uploading image.png…]()
-
 
 ## File Structure
 
