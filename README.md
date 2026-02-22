@@ -13,12 +13,10 @@ A clean, responsive expense tracker web app built with vanilla HTML, CSS, and Ja
 ## Getting Started
 
 No installation needed — just open `index.html` in your browser.
-
-```bash
-git clone https://github.com/YOUR_USERNAME/expense-tracker.git
-cd expense-tracker
 open index.html
-```
+
+<img width="523" height="401" alt="image" src="https://github.com/user-attachments/assets/a2bc1b28-6453-4f24-8940-0a68dc6c7716" />
+
 
 ## File Structure
 
