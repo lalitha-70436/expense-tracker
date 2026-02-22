@@ -37,5 +37,5 @@ expense-tracker/
 
 - HTML5
 - CSS3 (Grid, Flexbox, animations)
-- Vanilla JavaScript (ES6+)
+-  JavaScript (ES6+)
 - Google Fonts (Poppins)
